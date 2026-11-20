@@ -1,0 +1,9 @@
+# built panel files (they bundle the Crestron libraries)
+BUILDS/
+# Crestron SDK files are not redistributed here - see README
+SOURCE/js/cr-com-lib.js*
+SOURCE/js/webxpanel.js
+SOURCE/js/webxpanel.LICENSE.txt
+SOURCE/js/*.worker.js
+__pycache__/
+*.pyc

@@ -1,0 +1,53 @@
+SHOWROOM - DESIGN JOURNEY POST                                         2026-11-20
+=================================================================================
+Carousel: Journey_01 ... Journey_11 (1080 x 1350, 4:5) - upload in order.
+LinkedIn: upload Showroom_Design_Journey_Carousel.pdf as a document post (swipeable),
+or post the Social 16x9 video. Instagram: the PNGs as a carousel, 9x16 video as a reel.
+YouTube: Long 16x9 as a video, Social 9x16 as a Short.
+
+--- LINKEDIN (carousel or video) ------------------------------------------------
+From sketch to GUI, in one afternoon - a case study in CH5 GUI development with
+web development approaches and AI tools.
+
+It started as six boxes and a few arrows in a notebook: an opening screen, rooms,
+lights, shades, climate, media.
+
+I sent a photo of the page to an AI collaborator (Claude) with a short brief:
+minimalist, black on white, sans serif, a glow that follows the theme.
+
+What came back was a working Crestron CH5 panel. Then the real design work
+started - looking at it together and changing it together:
+
+- "Is this intentional?" -> the card outline now fades with the lights
+- "Controls in the cards" -> dim and switch a room without entering it
+- "The icons draw themselves" -> now on every entry
+- "Simulate a live tour" -> a guided demo, built into the panel
+
+Under the hood it is plain web development: hand-written HTML, CSS and JavaScript,
+one CSS variable that flips the glow between black and white, CSS transitions and
+SVG line drawing for the motion, Crestron CrComLib for the joins, packed as a .ch5z.
+
+Six passes later it is "The Showroom", a mockup panel with lighting, shades, climate, a cinema
+sequence and a self-running tour.
+
+The sketch and the decisions were mine. The build was fast enough that I could
+spend the afternoon on the decisions.
+
+This is a mockup, not a client project - but it changes how early a client can
+touch an idea.
+
+- Jassim Alfonso
+
+#CrestronCH5 #HomeAutomation #SmartHome #UIDesign #WebDevelopment #AIassisted
+
+--- SHORT (Instagram / reel / Short) --------------------------------------------
+From sketch to GUI. Six boxes on paper, one brief, six passes, one afternoon.
+A CH5 GUI case study by Jassim Alfonso, designed with an AI collaborator.
+#CrestronCH5 #HomeAutomation #SmartHome #UIDesign
+
+--- YOUTUBE (long form) ---------------------------------------------------------
+Title: From Sketch to GUI - a CH5 GUI development case study | Jassim Alfonso
+Description: A notebook sketch becomes a working Crestron CH5 touch panel mockup
+in one afternoon. 01 The sketch - 02 The brief - 03 The build - 04 The refinement -
+05 The result (guided tour of the panel: rooms, lighting, shades, climate, cinema).
+Mockup for demonstration; not a client project. Design and direction: Jassim Alfonso.

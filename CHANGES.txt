@@ -1,0 +1,8 @@
+2026-11-20  v1.0  First build from the notebook sketch: opening, rooms, lights, shades, climate, media, cinema room; light / dark theme with glow; simulation + optional joins.
+2026-11-20  v1.1  Room cards: master dimmer + power button on each card, line art lights up and draws in, glow follows level; Cinema card start / end. All cards share one outline. Wordmark now 'Mockup'. Walkthrough videos in VIDEO.
+2026-11-20  v1.2  Gateway polish: cards rise in and icons draw as the opening lifts; card outline + glow fade out with lights off, unlit art dims; greeting header with rooms-lit count and Welcome / All off. Videos re-filmed.
+2026-11-20  v1.3  Demo mode: guided tour with ghost finger + captions (PLAY DEMO on the opening, play button in the top bar); any touch takes over; after 3 min idle the tour starts by itself and loops (attract); ?demo=1.
+2026-11-20  v1.4  Tour captions made minimal: small tracked text with a hairline in the top bar centre (no box), shorter wording.
+2026-11-20  v1.5  Opening: wordmark alone (no box, no underline), letters settle in one by one. Enter transition: the word opens out and a line runs from the centre to both edges while the rooms rise in. POST folder: design-journey carousel + caption.
+2026-11-20  v1.6  Wordmark is now THE SHOWROOM (one tracked line).
+2026-11-20  v1.7  Demo tour: the ghost finger now drags the climate ring and the card dimmer instead of pressing; any start loops until the screen is touched.
