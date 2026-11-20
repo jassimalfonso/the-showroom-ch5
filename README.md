@@ -1,12 +1,81 @@
-# The Showroom
+# From Sketch to GUI
 
-A Crestron CH5 touch panel mockup for home automation, built from a notebook sketch.
-A case study by **Jassim Alfonso** in GUI development with web technology, CH5 and AI tools.
+**Case study · CH5 GUI development · Jassim Alfonso**
+Web technology · AI tools · a collaborative journey
 
-It is a mockup for demonstration, not a client project. It runs on its own in any browser
-(everything is simulated) and can be packed as a `.ch5z` for a Crestron touch panel.
+The Showroom is a Crestron CH5 touch panel mockup for home automation. It started as six
+boxes in a notebook and became a working panel the same afternoon. This repository is the
+case study: the journey below, then the panel itself.
 
-![The design journey](POST/Journey_01_title.png)
+It is a mockup for demonstration, not a client project.
+
+<p><img src="POST/Journey_01_title.png" width="300" alt="Journey_01_title"></p>
+
+## 01 — The sketch
+
+Six boxes, a few arrows. Pen on paper, a few minutes: an opening screen, the rooms, lighting,
+shades, climate and media, and how one leads to the next.
+
+<p><img src="POST/Journey_02_photo.png" width="300" alt="Journey_02_photo"></p>
+
+## 02 — The brief
+
+> "A nice minimalist luxury GUI… black on white… glows black or white depending on the theme."
+
+Sent to an AI collaborator (Claude) with a photo of the sketch.
+
+<p><img src="POST/Journey_03_prompt.png" width="300" alt="Journey_03_prompt"></p>
+
+## 03 — The build
+
+Each box becomes a screen.
+
+<p><img src="POST/Journey_04_pair1.png" width="250" alt="Journey_04_pair1"> <img src="POST/Journey_05_pair2.png" width="250" alt="Journey_05_pair2"> <img src="POST/Journey_06_pair4.png" width="250" alt="Journey_06_pair4"></p>
+
+**Web technology, on a touch panel.**
+
+- Hand-written HTML, CSS and JavaScript. No framework.
+- One CSS variable flips the glow between black and white.
+- CSS transitions and SVG line drawing carry the motion.
+- Crestron CrComLib joins. Packed as a `.ch5z` for the panel.
+
+<p><img src="POST/Journey_07_stack.png" width="300" alt="Journey_07_stack"></p>
+
+## 04 — The refinement
+
+Looked at together. Changed together.
+
+| Comment | What changed |
+|---|---|
+| "Is this intentional?" | The outline now fades with the lights |
+| "Controls in the cards." | Dim and switch without entering a room |
+| "The icons draw themselves. Nice touch." | Now on every entry |
+| "Simulate a live tour." | A guided demo, built into the panel |
+
+First pass and sixth pass, side by side. `CHANGES.txt` lists every pass.
+
+<p><img src="POST/Journey_08_refine3.png" width="250" alt="Journey_08_refine3"> <img src="POST/Journey_09_ba.png" width="250" alt="Journey_09_ba"></p>
+
+## 05 — The result
+
+A working panel, the same afternoon: lighting, shades, climate, a cinema sequence and a
+self-running guided tour, in a light and a dark theme.
+
+<p><img src="POST/Journey_10_result.png" width="300" alt="Journey_10_result"></p>
+
+- Play it: [`SHARE/Showroom_Demo.html`](SHARE/Showroom_Demo.html) (download and open in a browser)
+- Watch it: [social 16:9](VIDEO/Showroom_SketchToGUI_Social_16x9_VO.mp4) · [social 9:16](VIDEO/Showroom_SketchToGUI_Social_9x16_VO.mp4) · [long form](VIDEO/Showroom_SketchToGUI_Long_16x9_VO.mp4)
+- The carousel as one file: [`POST/Showroom_Design_Journey_Carousel.pdf`](POST/Showroom_Design_Journey_Carousel.pdf)
+
+## Sketch → GUI
+
+Designed together.
+
+<p><img src="POST/Journey_11_end.png" width="300" alt="Journey_11_end"></p>
+
+---
+
+# The panel
 
 ## Try it
 
@@ -78,12 +147,6 @@ Living 100, Dining 200, Master Bedroom 300, Cinema 400.
 | Digital | 471 .. 474 | Cinema start, end, 16:9, Scope |
 
 In live mode the guided tour presses the real controls, so it will drive real joins.
-
-## The journey
-
-Sketch on paper, a photo and a short brief to an AI collaborator (Claude), a first working
-build, then several passes of looking at it together and changing it together. The carousel in
-`POST/` and the films in `VIDEO/` tell that story. `CHANGES.txt` lists each pass.
 
 ## Credits and licences
 
