@@ -24,7 +24,7 @@ The interface was designed as a collaboration: the sketch, the brief and every d
 
 <p><img src="POST/Journey_02_photo.png" width="150" alt="Journey_02_photo"> <img src="POST/Journey_03_prompt.png" width="150" alt="Journey_03_prompt"> <img src="POST/Journey_04_pair1.png" width="150" alt="Journey_04_pair1"> <img src="POST/Journey_08_refine3.png" width="150" alt="Journey_08_refine3"> <img src="POST/Journey_10_result.png" width="150" alt="Journey_10_result"></p>
 
-The full story is in the carousel ([`POST/Showroom_Design_Journey_Carousel.pdf`](POST/Showroom_Design_Journey_Carousel.pdf)) and the films: [social 16:9](VIDEO/Showroom_SketchToGUI_Social_16x9_VO.mp4) · [social 9:16](VIDEO/Showroom_SketchToGUI_Social_9x16_VO.mp4) · [long form](VIDEO/Showroom_SketchToGUI_Long_16x9_VO.mp4). For why CH5 instead of the old VT Pro-e way, see [The Panel.](https://github.com/jassimalfonso/the-panel-ch5)
+The full story is in the carousel ([`POST/Showroom_Design_Journey_Carousel.pdf`](POST/Showroom_Design_Journey_Carousel.pdf)) and the films: [long form, narrated](VIDEO/Showroom_SketchToGUI_Long_16x9_VO.mp4) · [social 9:16](VIDEO/Showroom_SketchToGUI_Social_9x16.mp4). For why CH5 instead of the old VT Pro-e way, see [The Panel.](https://github.com/jassimalfonso/the-panel-ch5)
 
 ## What it does
 

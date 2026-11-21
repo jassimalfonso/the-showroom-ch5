@@ -2,8 +2,8 @@ SHOWROOM - DESIGN JOURNEY POST                                         2026-11-2
 =================================================================================
 Carousel: Journey_01 ... Journey_11 (1080 x 1350, 4:5) - upload in order.
 LinkedIn: upload Showroom_Design_Journey_Carousel.pdf as a document post (swipeable),
-or post the Social 16x9 video. Instagram: the PNGs as a carousel, 9x16 video as a reel.
-YouTube: Long 16x9 as a video, Social 9x16 as a Short.
+or post the long-form video. Instagram: the PNGs as a carousel, the 9x16 video as a reel.
+YouTube: the long form (narrated) as a video, the 9x16 as a Short.
 
 --- LINKEDIN (carousel or video) ------------------------------------------------
 From sketch to GUI, in one afternoon - a case study in CH5 GUI development with
@@ -27,7 +27,7 @@ Under the hood it is plain web development: hand-written HTML, CSS and JavaScrip
 one CSS variable that flips the glow between black and white, CSS transitions and
 SVG line drawing for the motion, Crestron CrComLib for the joins, packed as a .ch5z.
 
-Six passes later it is "The Showroom", a mockup panel with lighting, shades, climate, a cinema
+Seven passes later it is "The Showroom", a mockup panel with lighting, shades, climate, a cinema
 sequence and a self-running tour.
 
 The sketch and the decisions were mine. The build was fast enough that I could
@@ -41,7 +41,7 @@ touch an idea.
 #CrestronCH5 #HomeAutomation #SmartHome #UIDesign #WebDevelopment #AIassisted
 
 --- SHORT (Instagram / reel / Short) --------------------------------------------
-From sketch to GUI. Six boxes on paper, one brief, six passes, one afternoon.
+From sketch to GUI. Six boxes on paper, one brief, seven passes, one afternoon.
 A CH5 GUI case study by Jassim Alfonso, designed with an AI collaborator.
 #CrestronCH5 #HomeAutomation #SmartHome #UIDesign
 
